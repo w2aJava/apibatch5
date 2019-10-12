@@ -12,3 +12,4 @@ com\way2automation\APIBatch5\CustomListeners\TestListeners.class
 rough\Home.class
 com\way2automation\APIBatch5\API\DeleteCustomerAPI.class
 com\way2automation\APIBatch5\API\UpdateCustomerAPI.class
+com\way2automation\APIBatch5\TestUtils\Sample.class
