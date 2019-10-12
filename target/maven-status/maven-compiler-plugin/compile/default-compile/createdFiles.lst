@@ -1,0 +1,14 @@
+com\way2automation\APIBatch5\API\CreateCustomerAPI.class
+com\way2automation\APIBatch5\TestUtils\Zip.class
+rough\Test.class
+com\way2automation\APIBatch5\TestUtils\ExcelReader.class
+com\way2automation\APIBatch5\TestUtils\Extentmanager.class
+com\way2automation\APIBatch5\TestSetup\TestSetup.class
+com\way2automation\APIBatch5\TestUtils\Data.class
+com\way2automation\APIBatch5\TestUtils\Mail.class
+com\way2automation\APIBatch5\TestUtils\ConfigProperties.class
+com\way2automation\APIBatch5\TestUtils\TestUtil.class
+com\way2automation\APIBatch5\CustomListeners\TestListeners.class
+rough\Home.class
+com\way2automation\APIBatch5\API\DeleteCustomerAPI.class
+com\way2automation\APIBatch5\API\UpdateCustomerAPI.class

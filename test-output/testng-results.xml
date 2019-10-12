@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2797" started-at="2019-09-28T05:52:20Z" finished-at="2019-09-28T05:52:22Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="2797" started-at="2019-09-28T05:52:20Z" finished-at="2019-09-28T05:52:22Z">
+      <class name="com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI">
+        <test-method status="PASS" signature="setUpFramework()[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="setUpFramework" is-config="true" duration-ms="588" started-at="2019-09-28T11:22:19Z" finished-at="2019-09-28T11:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpFramework -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-09-28T11:22:20Z" finished-at="2019-09-28T11:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="beforeClass" is-config="true" duration-ms="3" started-at="2019-09-28T11:22:20Z" finished-at="2019-09-28T11:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-09-28T11:22:20Z" finished-at="2019-09-28T11:22:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI.validateUpdateCustomerAPIWithValidAuthKey(java.util.Hashtable)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateUpdateCustomerAPIWithValidAuthKey(java.util.Hashtable)[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="validateUpdateCustomerAPIWithValidAuthKey" duration-ms="2768" started-at="2019-09-28T11:22:20Z" data-provider="data" finished-at="2019-09-28T11:22:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{name=Anshul, expectedStatusCode=200, balance=10000}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateCustomerAPIWithValidAuthKey -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-09-28T11:22:22Z" finished-at="2019-09-28T11:22:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateUpdateCustomerAPIWithValidAuthKey status=SUCCESS method=ValidateUpdateCustomerAPI.validateUpdateCustomerAPIWithValidAuthKey(java.util.Hashtable)[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-09-28T11:22:22Z" finished-at="2019-09-28T11:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-09-28T11:22:22Z" finished-at="2019-09-28T11:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="tearDownFramework()[pri:0, instance:com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI@27c86f2d]" name="tearDownFramework" is-config="true" duration-ms="5286" started-at="2019-09-28T11:22:23Z" finished-at="2019-09-28T11:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownFramework -->
+      </class> <!-- com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

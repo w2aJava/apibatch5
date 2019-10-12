@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="com.way2automation.APIBatch5.CustomListeners.TestListeners"/>
+  </listeners>
+  <test name="Test1">
+    <classes>
+      <class name="com.way2automation.APIBatch5.TestCases.ValidateUpdateCustomerAPI"/>
+    </classes>
+  </test> <!-- Test1 -->
+</suite> <!-- Failed suite [Suite] -->

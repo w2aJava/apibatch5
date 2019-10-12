@@ -1,0 +1,3 @@
+com\way2automation\APIBatch5\TestCases\ValidateUpdateCustomerAPI.class
+com\way2automation\APIBatch5\TestCases\SampleTestCase.class
+com\way2automation\APIBatch5\TestCases\ValidateCreateCustomerAPI.class
